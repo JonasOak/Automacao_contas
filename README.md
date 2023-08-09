@@ -40,7 +40,7 @@ Este projeto consiste em um programa Java que realiza a automação de login em 
 
 2. Configure suas credenciais:
 
-   Edite o arquivo `accounts/credentials.txt` e adicione suas informações de login e senha no formato "login,senha", conforme o exemplo abaixo:
+   No diretório raiz, crie a pasta `accounts` e dentro dela um arquivo `credentials.txt`. Adicione suas informações de login e senha no formato "login,senha", conforme o exemplo abaixo:
 
    ```
    login1,senha1
