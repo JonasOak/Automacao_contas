@@ -1,0 +1,2 @@
+atualize o Chromedriver para a versão 116 do chrome.
+Este aquivo .exe parou de funcionar nos navegadores atualizados a partir deste momento
