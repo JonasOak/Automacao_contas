@@ -36,10 +36,14 @@ Este projeto consiste em um programa Java que realiza a automação de login em 
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   git clone <URL do repositório>
+   git clone <https://github.com/JonasOak/Automacao_contas.git>
+   ```
+   ou
+   ```bash
+   git clone <git@github.com:JonasOak/Automacao_contas.git>
    ```
 
-2. Configure suas credenciais:
+3. Configure suas credenciais:
 
    No diretório raiz, crie a pasta `accounts` e dentro dela um arquivo `credentials.txt`. Adicione suas informações de login e senha no formato "login,senha", conforme o exemplo abaixo:
 
@@ -49,7 +53,7 @@ Este projeto consiste em um programa Java que realiza a automação de login em 
    login3,senha3
    ```
 
-3. Execute o programa:
+4. Execute o programa:
 
    Abra o arquivo `Program.java` localizado em `src/main/java/application/` e execute a classe `Program`.
 
