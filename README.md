@@ -8,7 +8,7 @@ Este é um projeto de automação de login usando o Selenium WebDriver e Java. O
 
 - Java JDK (8 ou superior) instalado
 - Maven instalado
-- Driver do Chrome instalado (localização configurada no arquivo `Heart.java`)
+- Driver do Chrome instalado (localização configurada no arquivo `Heart.java`
 - Lembrar de sempre manter o ChromeDriver.exe na mesma versão do Chrome
 - Conhecimento básico de automação de testes e Java
 
