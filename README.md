@@ -58,3 +58,4 @@ Este projeto consiste em um programa Java que realiza a automação de login em 
    Abra o arquivo `Program.java` localizado em `src/main/java/application/` e execute a classe `Program`.
 
    Isso iniciará a automação de login nos sites GitHub, Avar e Sagres usando as credenciais fornecidas.
+Modificação feita em 2024-01-01T00:00:00-0300 - Commit 1
