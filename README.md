@@ -80,3 +80,4 @@ Modificação feita em 2024-01-06T00:00:00-0300 - Commit 2
 Modificação feita em 2024-01-07T00:00:00-0300 - Commit 1
 Modificação feita em 2024-01-07T00:00:00-0300 - Commit 2
 Modificação feita em 2024-01-07T00:00:00-0300 - Commit 3
+Modificação feita em 2024-01-07T00:00:00-0300 - Commit 4
