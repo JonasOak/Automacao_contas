@@ -130,3 +130,4 @@ Este projeto consiste em um programa Java que realiza a automação de login em 
 2024-01-14T00:00:00-0300 Commit 6
 2024-01-15T00:00:00-0300 Commit 1
 2024-01-15T00:00:00-0300 Commit 2
+2024-01-15T00:00:00-0300 Commit 3
