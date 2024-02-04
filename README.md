@@ -243,3 +243,4 @@ Este projeto consiste em um programa Java que realiza a automação de login em 
 Modificação feita em 2024-02-01T00:00:00-0300
 Modificação feita em 2024-02-02T00:00:00-0300
 Modificação feita em 2024-02-03T00:00:00-0300
+Modificação feita em 2024-02-04T00:00:00-0300
