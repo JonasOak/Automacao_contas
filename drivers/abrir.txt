@@ -1,5 +1,5 @@
-Versão atual do ChromeDriver: 116
-23/08/2023
+Versão atual do ChromeDriver: 124
+23/04/2024
 _________________________________
 Sempre verifique a versão do seu Google Chrome. Segue link para verificação:
 chrome://settings/help
