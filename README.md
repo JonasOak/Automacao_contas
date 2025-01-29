@@ -58,35 +58,3 @@ Este projeto consiste em um programa Java que realiza a automação de login em 
    Abra o arquivo `Program.java` localizado em `src/main/java/application/` e execute a classe `Program`.
 
    Isso iniciará a automação de login nos sites GitHub, Avar e Sagres usando as credenciais fornecidas.
-Modificação feita em 2024-01-01T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-02T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-02T00:00:00-0300 - Commit 2
-Modificação feita em 2024-01-02T00:00:00-0300 - Commit 3
-Modificação feita em 2024-01-02T00:00:00-0300 - Commit 4
-Modificação feita em 2024-01-02T00:00:00-0300 - Commit 5
-Modificação feita em 2024-01-03T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-04T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-04T00:00:00-0300 - Commit 2
-Modificação feita em 2024-01-04T00:00:00-0300 - Commit 3
-Modificação feita em 2024-01-05T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-05T00:00:00-0300 - Commit 2
-Modificação feita em 2024-01-05T00:00:00-0300 - Commit 3
-Modificação feita em 2024-01-05T00:00:00-0300 - Commit 4
-Modificação feita em 2024-01-05T00:00:00-0300 - Commit 5
-Modificação feita em 2024-01-05T00:00:00-0300 - Commit 6
-Modificação feita em 2024-01-05T00:00:00-0300 - Commit 7
-Modificação feita em 2024-01-06T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-06T00:00:00-0300 - Commit 2
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 2
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 3
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 4
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 5
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 6
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 7
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 8
-Modificação feita em 2024-01-07T00:00:00-0300 - Commit 9
-Modificação feita em 2024-01-08T00:00:00-0300 - Commit 1
-Modificação feita em 2024-01-08T00:00:00-0300 - Commit 2
-Modificação feita em 2024-01-08T00:00:00-0300 - Commit 3
-Modificação feita em 2024-01-08T00:00:00-0300 - Commit 4
